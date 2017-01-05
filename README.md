@@ -1,5 +1,5 @@
 # pyDirectoryTool
 
-##  Creates direcotry
+##  Creates directory
 
 ##  return year/month/date directory
